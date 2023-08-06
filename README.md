@@ -31,14 +31,14 @@ CoinsAge is a news media about the latest cryptocurrency news which is developed
 
 ## Screenshots <br />
 - **Screenshot of Login page** <br />
-![Screenshot of login page.](assets/Login.png)<br />
+<kbd>![Screenshot of login page.](assets/Login.png)</kbd><br />
 - **Screenshot of Trending and Popular News** <br />
-![Screenshot of login page.](assets/Trending.png)<br />
+<kbd>![Screenshot of login page.](assets/Trending.png)</kbd><br />
 - **Screenshot of Author page** <br />
-![Screenshot of login page.](assets/AuthorNews.png)<br />
+<kbd>![Screenshot of login page.](assets/AuthorNews.png)</kbd><br />
 - **Screenshot of Add News page** <br />
-![Screenshot of login page.](assets/AddNews.png)<br />
+<kbd>![Screenshot of login page.](assets/AddNews.png)</kbd><br />
 - **Screenshot of Create User page** <br />
-![Screenshot of login page.](assets/CreateUser.png)<br />
+<kbd>![Screenshot of login page.](assets/CreateUser.png)</kbd><br />
 - **Screenshot of Category** <br />
-![Screenshot of login page.](assets/Category.png)<br />
+<kbd>![Screenshot of login page.](assets/Category.png)</kbd><br />
