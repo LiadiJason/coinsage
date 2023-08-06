@@ -41,6 +41,4 @@ CoinsAge is a news media about the latest cryptocurrency news which is developed
 - **Screenshot of Create User page** <br />
 ![Screenshot of login page.](assets/CreateUser.png)<br />
 - **Screenshot of Category** <br />
-![Screenshot of login page.](assets/Catgegory.png)<br />
-- **Screenshot of Category** <br />
-![Screenshot of login page.](assets/Catgegory.png)<br />
+![Screenshot of login page.](assets/Category.png)<br />
